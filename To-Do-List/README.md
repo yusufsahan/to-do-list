@@ -1,0 +1,1 @@
+Yusuf Şahan tarafınfan Kodluyoruz JavaScript eğitiminin 2. ödevi olarak yapılmıştır.
